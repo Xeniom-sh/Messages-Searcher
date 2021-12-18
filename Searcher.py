@@ -1,3 +1,4 @@
+from colorafull import init; init()
 import os, discord, json, re
 from colorama import Fore, init
 
